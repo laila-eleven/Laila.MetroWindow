@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+v﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup Label="Globals">
     <SccProjectName>SAK</SccProjectName>
@@ -15,10 +15,10 @@
 	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	  <Title>Laila.MetroWindow</Title>
 	  <Version>2.5.0</Version>
-	  <Authors>Laïla Blomme</Authors>
+	  <Authors>Laïla Eleven</Authors>
 	  <Description>A .NET6 WPF metro window featuring glow, configurable colors, menu integrated in title bar, alternative designs, saving and restoring of window position and minimize/maximize/restore/close animations.</Description>
-	  <Copyright>Copyright © 2024-2025 by Laïla Blomme</Copyright>
-	  <PackageProjectUrl>https://github.com/lailablomme/Laila.MetroWindow</PackageProjectUrl>
+	  <Copyright>Copyright © 2024-2025 by Laïla Eleven</Copyright>
+	  <PackageProjectUrl>https://github.com/laila-eleven/Laila.MetroWindow</PackageProjectUrl>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
 	  <PackageLicenseFile>LICENSE</PackageLicenseFile>
 	  <PackageId>Laila.MetroWindow-Core</PackageId>
